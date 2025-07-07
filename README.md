@@ -24,6 +24,18 @@ To analyse and visualize daily weather patterns across major Indian cities using
 -Combined key insights into a clean, interactive dashboard for easy comparison and analysis.
 
 ## Dashboard
+![SCREENSHOT](https://github.com/user-attachments/assets/d8fd5514-a155-42f1-bae4-cea19584c7eb)
+
+## Project Insights
+-Tracks daily weather trends across major Indian cities.
+-Highlights temperature, rainfall, humidity, wind, and UV index patterns.
+-Identifies the hottest, rainiest, and windiest conditions by city and date.
+-Reveals regional climate variations using comparative charts and heatmaps.
+-Supports environmental analysis and informed decision-making through data visuals.
+
+## Final Conclusion:
+This project demonstrates how weather data can be transformed into meaningful insights through visualization. By tracking key metrics across cities, it offers a clear understanding of climate patterns and supports better environmental planning and awareness.
+
 
 
 
