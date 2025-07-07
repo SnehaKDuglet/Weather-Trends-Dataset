@@ -5,14 +5,23 @@ A clean and concise time-series dataset capturing daily weather metrics across m
 Variables Included:
 
 Feels like (°C)
+
 Temperature (°C)
+
 Humidity (%)
+
 Pressure (hPa)
+
 Rainfall (mm)
+
 Wind Speed (km/h)
+
 UV Index
+
 Visibility (Km)
+
 Date & Location identifiers
+
 Latitude & Longitude
 
 📌 Use Cases
